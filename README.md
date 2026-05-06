@@ -24,7 +24,7 @@
 3. Cierre conclusión FODA de proyecto y materia
 proyecto en GITHUB
 
-
+##
 1. 🔴 ENTREGABLES - Documentación con fases y actividades del proyecto (Imprimir pantallas)
 2. 🟠 ENTREGABLES - Proyecto enlace de Github
 3. 🔵 ENTREGABLES - Archivos extras y anexos
