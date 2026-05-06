@@ -24,10 +24,10 @@
 3. Cierre conclusión FODA de proyecto y materia
 proyecto en GITHUB
 
-<span style="color: red;">ENTREGABLES</span> Documentacion con fases y actividades del proyecto (Imprimir pantallas)
-<span style="color: orange;">ENTREGABLES</span> Proyecto enlace de Github 
-<span style="color: blue;">ENTREGABLES</span> Archivos extras y anexos 
-🔴 ENTREGABLES - Documentación con fases y actividades del proyecto (Imprimir pantallas)
+
+1. 🔴 ENTREGABLES - Documentación con fases y actividades del proyecto (Imprimir pantallas)
+2. 🟠 ENTREGABLES - Proyecto enlace de Github
+3. 🔵 ENTREGABLES - Archivos extras y anexos
 
 
 
