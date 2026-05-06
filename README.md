@@ -3,7 +3,7 @@
 
 ### *** Informacion del Proyecto    Plataforma WEB Java software para aprendizaje IA Generativa
 * **ETAPAS_FASES DE INGENIERIA DE SOFTWARE **
-*![Ejemplo de Gráfica](https://images.unsplash.com/photo-1551288049-bbbda536339a?auto=format&fit=crop&q=80&w=500)
+*![Ejemplo de Gráfica]([https://images.unsplash.com/photo-1551288049-bbbda536339a?auto=format&fit=crop&q=80&w=500](https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80))
 * ** Estandar internacional IEEE 1992-2022**
 
 ## ** FASE I Planeacion de software **
